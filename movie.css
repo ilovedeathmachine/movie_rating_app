@@ -1,0 +1,33 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h1 {
+    text-align: center;
+}
+
+.btnContainer, h2 {
+    text-align: center;
+}
+
+.btn {
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.btn:hover {
+    color: teal;
+}
+
+#movieRating, #movieTitle, #submitBtn {
+    margin: 5px;
+}
+
+#movieForm {
+    margin-left: 5em;
+}
+
+li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
